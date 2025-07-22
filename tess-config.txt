@@ -1,0 +1,2 @@
+tessdata-dir C:/Users/HP/FileToolbox/bin/Tesseract-OCR/tessdata
+
