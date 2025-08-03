@@ -4,7 +4,7 @@
 
 <br/>
 
-![screenshot](https://user-images.githubusercontent.com/your-screenshot-path.png) <!-- Optional -->
+![screenshot]([https://user-images.githubusercontent.com/your-screenshot-path.png](https://github.com/ayushnanda-og/FileToolBox/blob/main/screenshot.png)) <!-- Optional -->
 
 ---
 
